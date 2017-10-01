@@ -6,10 +6,21 @@
     <description>Recent content on Grigor&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Sep 2017 22:41:28 +0400</lastBuildDate>
+    <lastBuildDate>Sun, 01 Oct 2017 20:56:59 +0400</lastBuildDate>
     
 	<atom:link href="https://gr1g0r.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video Lecture 8 &#34;How to Get Started, Doing Things that Don&#39;t Scale, Press&#34;</title>
+      <link>https://gr1g0r.github.io/posts/video_lectures_8_do_things_that_dont_scale/</link>
+      <pubDate>Sun, 01 Oct 2017 20:56:59 +0400</pubDate>
+      
+      <guid>https://gr1g0r.github.io/posts/video_lectures_8_do_things_that_dont_scale/</guid>
+      <description>Hello everyone! Today&amp;rsquo;s video lecture&amp;rsquo;s speaker is Stanley Tang, who is the founder of DoorDash.
+Well, at first Stanley was telling about how everything started in DoorDash and how they tested whether delivery system was a good idea. What they did, is pretty simple! They just launched a demo website in an hour and tested if they would get orders.
+The main message Stanley tried to give was that you don&amp;rsquo;t need much to start a startup.</description>
+    </item>
     
     <item>
       <title>Video Lecture 7 &#34;How to build products users love&#34;</title>
