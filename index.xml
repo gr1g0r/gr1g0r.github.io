@@ -6,10 +6,20 @@
     <description>Recent content on Grigor&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Oct 2017 23:04:27 +0400</lastBuildDate>
+    <lastBuildDate>Tue, 24 Oct 2017 00:37:03 +0400</lastBuildDate>
     
 	<atom:link href="https://gr1g0r.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video Lectures 12 &#34;Building for the enterprise&#34;</title>
+      <link>https://gr1g0r.github.io/posts/video_lectures_12_building_for_enterprise/</link>
+      <pubDate>Tue, 24 Oct 2017 00:37:03 +0400</pubDate>
+      
+      <guid>https://gr1g0r.github.io/posts/video_lectures_12_building_for_enterprise/</guid>
+      <description>Hello everyone, Today I am going to review another video about how to start a startup. Today the guest lecturer is Aaron Levie who is the CEO and co-founder of the Box, and he is going to speak about building enterprise software.
+Box is a cloud content management and file sharing service for businesses. In the lecture Aaron talks about the history of the Box. According to him, at first they didn&amp;rsquo;t plan to create enterprise software, they just noticed that file sharing is was a really hard procedure and tried to fix that by creating the Box.</description>
+    </item>
     
     <item>
       <title>Video Lecture 11 &#34;Hiring and culture&#34;</title>
