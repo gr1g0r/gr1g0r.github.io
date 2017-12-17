@@ -6,10 +6,20 @@
     <description>Recent content on Grigor&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Dec 2017 17:34:33 +0400</lastBuildDate>
+    <lastBuildDate>Sun, 17 Dec 2017 19:17:52 +0400</lastBuildDate>
     
 	<atom:link href="https://gr1g0r.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video Lecture 17 &#34;How to design hardware products&#34;</title>
+      <link>https://gr1g0r.github.io/posts/video_lectures_17_how_to_design_hardware_products/</link>
+      <pubDate>Sun, 17 Dec 2017 19:17:52 +0400</pubDate>
+      
+      <guid>https://gr1g0r.github.io/posts/video_lectures_17_how_to_design_hardware_products/</guid>
+      <description>Hello everyone! In this post I am going to review yet another video lecture about how to start a startup and today the guest lecturer is Hosain Rahman, who is the Founder and CEO of Jewbone. In this lecture he is speaking about how to design software products.
+In his company they mostly develop IOT (Internet of Things) devices, hence work a lot with hardware. According to Hosain, you they try to make such good hardware, that users can keep on them 24&amp;frasl;7.</description>
+    </item>
     
     <item>
       <title>Video Lecture 16 &#34;How to Run a User Interview&#34;</title>
